@@ -1,0 +1,21 @@
+,El gato se escondió debajo de la cama.,La cama estaba limpia y cómoda.,El perro y el gato jugaron en el jardín.,La limpieza del jardín es importante.
+jardín,0,0,1,1
+la,1,1,0,1
+cómoda,0,1,0,0
+limpieza,0,0,0,1
+importante,0,0,0,1
+en,0,0,1,0
+cama,1,1,0,0
+perro,0,0,1,0
+debajo,1,0,0,0
+del,0,0,0,1
+jugaron,0,0,1,0
+de,2,0,0,1
+es,1,1,0,1
+el,1,0,3,1
+escondió,1,0,0,0
+y,0,1,1,0
+gato,1,0,1,0
+se,1,0,0,0
+estaba,0,1,0,0
+limpia,0,1,0,0
